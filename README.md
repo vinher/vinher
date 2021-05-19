@@ -1,6 +1,6 @@
 ### Hello World!!! 👋
 
-Desarrollador de software full-stack, con enfoque en el backend. 
+Desarrollador de software full-stack, con enfoque en el desarrollo móvil. 
 Amplia experiencia en lenguajes de programación como Javascript, PHP, Kotlin y Dart.
 
 Frameworks: Vue, Laravel, Boostrap y Flutter.
