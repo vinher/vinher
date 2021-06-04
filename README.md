@@ -1,8 +1,9 @@
 ### Hello World!!! 👋
 
-Desarrollador Móvil con amplia experiencia en lenguajes de programación como Java, Kotlin y Dart.
+Desarrollador de software Full-Stack con enfoque al desarrollo móvil, amplia experiencia en lenguajes de programación como Java, Kotlin, Dart, JavaScript y PHP.
 
-Frameworks:Flutter.
+Frameworks:Flutter,Vue, Bootstrap y Laravel.
+
 - 👨‍🎓 Actualmente aprendiendo Inglés ...
 - 📚 Autodidacta, perseverante.
 - 📷 Instagram [https://www.instagram.com/kevvvvvvvv_hm/?hl=es-la]
