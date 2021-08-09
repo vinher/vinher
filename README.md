@@ -1,8 +1,8 @@
 ### Hello World!!! 👋
 
-Desarrollador de software Full-Stack con enfoque al desarrollo móvil, amplia experiencia en lenguajes de programación como Kotlin, Dart, JavaScript y Python.
+Desarrollador de software Full-Stack con enfoque al desarrollo móvil, amplia experiencia en lenguajes de programación como Kotlin, Dart, JavaScript y PHP.
 
--Frameworks Web:Bootstrap, Vue, Flask Y Django.
+-Frameworks Web:Bootstrap, Vue Y Laravel.
 
 -Frameworks Móvil:Flutter.
 
