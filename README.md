@@ -6,7 +6,6 @@ aplicaciones con tecnologías como: HTML 5, CSS 3 y JavaScript.
 
 Así como trabajar con frameworks como:  
 
-### Frameworks Web.  
 - Bootstrap 
 - Vue  
 - Flask
