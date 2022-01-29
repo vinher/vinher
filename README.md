@@ -9,4 +9,5 @@ Así como trabajar con frameworks como:
 - Bootstrap 
 - Vue  
 - Flask
+- Django
 
