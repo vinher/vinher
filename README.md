@@ -1,5 +1,5 @@
 # Hola!! Soy Kevin Hernández
-## Desarrollador De Software
+## Desarrollador Móvil & Web
 <!--<h1 align="center"><b>Hola!! Soy Kevin Hernández <br> Desarrollador De Software</b>-->
   <br>
 
