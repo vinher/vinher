@@ -14,7 +14,7 @@ Soy un apasionado por la tecnología. A lo largo de mi carrera, he trabajado con
 
 He trabajado con tecnologías como Laravel, JavaScript y TypeScript para el desarrollo web, además de Kotlin para el desarrollo nativo en Android y Flutter para el desarrollo móvil multiplataforma.
 
-Siempre me ha gustado escribir aplicaciones personales y contar con proyectos que ayuden en mi día a día, no solo a mí, sino también a las personas de mi alrededor.
+Siempre me ha gustado escribir aplicaciones personales y contar con proyectos que ayuden en mi día a día, no solo a mí, sino también a las personas que me rodean.
 <!--- Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
